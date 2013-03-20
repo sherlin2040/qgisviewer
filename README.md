@@ -1,0 +1,4 @@
+qgisviewer
+==========
+
+standalone application
